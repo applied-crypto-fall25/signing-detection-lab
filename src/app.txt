@@ -2,5 +2,5 @@ v1
 v2
 line 1 updated
 line 2 updated
-line 3
+line 3 normalized
 line 4
