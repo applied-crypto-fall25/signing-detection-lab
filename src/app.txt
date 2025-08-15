@@ -4,7 +4,11 @@ line 1 updated
 line 2 updated
 line 3 normalized
 line 4
+<<<<<<< HEAD
 line 5
 
 refactor: reorganize helper functions
 main branch change
+=======
+temporary change for merge
+>>>>>>> feature-branch
