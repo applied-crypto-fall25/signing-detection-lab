@@ -4,3 +4,4 @@ line 1 updated
 line 2 updated
 line 3
 line 4
+temporary change for merge
